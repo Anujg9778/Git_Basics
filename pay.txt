@@ -1,0 +1,22 @@
+Today , I have completed all the remaining modules and assignments of networking, these are the topics which I have learned in networking:
+1) About the protocols HTTP, TCP.
+2) how to check the traffic on a particular server.
+3) connection establishment and TCP congestion control.
+4) 3- way handshaking protocol and Buffering.
+5)  traceroute, congestion, bandwidth and bandwidth delay product.
+6) middle boxes: Proxies and NAT.
+7) firewall and filtering.
+
+Yesterday, I have completed the first three module of the  networking the topics which I have covered:
+
+I have installed the setup for performing networking operation on my Linux machine.
+
+I learned about ping command for checking the connectivity between server and machine, after that netcat command for establishing connection with the server.
+
+how to fetch the content from the particular server and how to print.
+
+Learned about the Domain Name System, Network Address Translation.
+
+Types of interfaces.
+
+How to find your default gateway and how to check that your system have IPv6 access or not.
