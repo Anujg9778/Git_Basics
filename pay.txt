@@ -4,7 +4,7 @@ Today , I have completed all the remaining modules and assignments of networking
 3) connection establishment and TCP congestion control.
 4) 3- way handshaking protocol and Buffering.
 5)  traceroute, congestion, bandwidth and bandwidth delay product.
-6) middle boxes: Proxies and NAT.
+6) middle boxes: Proxies and netcat.
 7) firewall and filtering.
 
 Yesterday, I have completed the first three module of the  networking the topics which I have covered:
